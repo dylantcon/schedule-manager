@@ -103,3 +103,28 @@ bool Schedule::newEvents( std::string filename )
   }
   else return false;
 }
+
+bool Schedule::makeEventRecurring( const Date& enddate, const std::string& whichString )
+{
+
+}
+
+bool Schedule::removeEventInstance( const Date& whichDate, const std::string& whichString )
+{
+
+}
+
+bool Schedule::removeEventInstance( const Date& from, const Date& to )
+{
+
+}
+
+void Schedule::heapsortSchedule();
+{
+
+}
+
+void Schedule::resizeSchedule( int numEvents )
+{
+
+}
