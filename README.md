@@ -9,5 +9,5 @@ necessary to properly initialize either child type.
 I plan on creating 'dash.cpp' as a "dashboard" for the schedule app, and then when I learn
 enough about GUI design and graphical programming, I will make 'io.cpp' to interface with
 the preexisting code to display said dashboard in the window. Meanwhile, the program will
-just interface with the terminal using some simple, crappy text-based UI. I am excited to
+just interface with the terminal using some simple, text-based UI. I am excited to
 see where this goes!
